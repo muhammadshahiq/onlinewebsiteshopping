@@ -1,0 +1,114 @@
+.logo{
+    margin-right: 2px;
+}
+.navbar{
+    background-color: #b7e900 !important;
+    display: flex !important;    
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+.fa-shopping-cart{
+    font-size: 25px !important;
+}
+  @media screen and (max-width: 650px) {
+    .card{
+     /* width: 60%;
+     height: 30%; */
+     padding: 10px 10px 10px 10px;
+     justify-content: center !important;
+     
+    margin-left: 80px;
+    }
+  } 
+
+  .collection{
+      margin-top: 1em !important;
+  }
+  div>h1{
+      color:#b7e900 ;
+      font-weight: bold !important;
+      text-shadow: 2px 2px 4px yellow;
+      margin-top: 1em;
+  }
+  .card{
+      width: 250px !important; 
+      height: auto !important;
+      justify-content: space-between;
+     margin-top: 2em;
+     margin-right: 2em !important;
+     background-color: #fff;
+    box-shadow: 2px 4px 5px grey !important;
+  }
+  .card-text{
+      font-weight: bold !important;
+  }
+  .btn-primary{
+      font-weight: bold;
+      background-color:#b7e900 ;
+      width: 100%;
+  }
+  .btn-primary:hover {
+        background-color: rgb(255, 145, 0) !important;
+      }
+
+.logohead{
+    display: flex;
+
+}
+.menhead{
+   color: orangered ;
+    font-weight: bold !important;
+      text-shadow: 2px 2px 4px #b7e900;
+}
+
+.col1,.col2,.col3{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+.coll{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.fa-truck,.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    color: #b7e900;
+    margin-right: 10px;
+}
+.hed{
+    color: #b7e900 !important;
+}
+.about{
+    color: white;
+    font-weight: bold;
+    background-color: #b7e900;   
+    margin-top: 50px;
+  }
+  .copy{
+      background-color: #ff6600 !important;
+  }
+  .copy1{
+      margin-top: 2em;
+  }
+  .fix{
+
+    position: fixed;
+    bottom:10px;
+    right:20px;
+  }
+  .chead{
+      color: orangered;
+  }
+
+  
